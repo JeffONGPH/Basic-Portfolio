@@ -215,40 +215,14 @@ form {
     font-size: 25px;
 }
 
-#pic1 {
+.pict {
     float: left;
     padding: 10px;
     width: 285px;
     height: 230px;
 }
 
-#pic2 {
-    float: left;
-    padding: 10px;
-    width: 285px;
-    height: 230px;
-}
 
-#pic3 {
-    float: left;
-    padding: 10px;
-    width: 285px;
-    height: 230px;
-}
-
-#pic4 {
-    float: left;
-    padding: 10px;
-    width: 285px;
-    height: 230px;
-}
-
-#pic5 {
-    float: left;
-    padding: 10px;
-    width: 285px;
-    height: 230px;
-}
 
 .text:hover {
     background: lightskyblue;
